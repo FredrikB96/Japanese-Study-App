@@ -372,11 +372,11 @@
 	"dependencies" : 
 	[
 		{
-			"backtrace" : 0,
-			"id" : "Japanese_Study_autogen::@6890427a1f51a3e7e1df"
+			"id" : "Japanese_Study_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
 		},
 		{
-			"id" : "Japanese_Study_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
+			"backtrace" : 0,
+			"id" : "Japanese_Study_autogen::@6890427a1f51a3e7e1df"
 		}
 	],
 	"id" : "Japanese_Study::@6890427a1f51a3e7e1df",

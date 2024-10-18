@@ -1,0 +1,25 @@
+# ninja log v6
+863	2983	7509562284235664	CMakeFiles/Japanese_Study.dir/Japanese_Study_autogen/mocs_compilation.cpp.obj	57a969f50cbbab09
+10	303	7509562538636636	C:/Users/blomg/Documents/QT/Testing_Projects/Japanese_Study/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	ee4fc69823853633
+287	856	7509562283621502	Japanese_Study_autogen/timestamp	84d63396eb2e230b
+868	3065	7509562284290718	CMakeFiles/Japanese_Study.dir/main.cpp.obj	f1239e625cfc0952
+287	856	7509562283621502	Japanese_Study_autogen/mocs_compilation.cpp	84d63396eb2e230b
+287	856	7509562283621502	C:/Users/blomg/Documents/QT/Testing_Projects/Japanese_Study/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Japanese_Study_autogen/timestamp	84d63396eb2e230b
+287	856	7509562283621502	C:/Users/blomg/Documents/QT/Testing_Projects/Japanese_Study/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Japanese_Study_autogen/mocs_compilation.cpp	84d63396eb2e230b
+3492	3743	7509562310528079	Japanese_Study.exe	50daad21f435461
+905	1719	7509562284657606	CMakeFiles/Japanese_Study.dir/filemanager.cpp.obj	b5abf4d950e65ec5
+873	3492	7509562284340886	CMakeFiles/Japanese_Study.dir/mainwindow.cpp.obj	d46f70d3813bc072
+303	1239	7509562549271022	build.ninja	ba93c19c92a1c26f
+6	291	7509562549665515	C:/Users/blomg/Documents/QT/Testing_Projects/Japanese_Study/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	ee4fc69823853633
+6	286	7509562620056100	C:/Users/blomg/Documents/QT/Testing_Projects/Japanese_Study/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	ee4fc69823853633
+7	286	7509562639637059	C:/Users/blomg/Documents/QT/Testing_Projects/Japanese_Study/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	ee4fc69823853633
+7	309	7509563030297228	C:/Users/blomg/Documents/QT/Testing_Projects/Japanese_Study/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	ee4fc69823853633
+8	303	7509563432038494	C:/Users/blomg/Documents/QT/Testing_Projects/Japanese_Study/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	ee4fc69823853633
+6	290	7509563770617599	C:/Users/blomg/Documents/QT/Testing_Projects/Japanese_Study/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	ee4fc69823853633
+298	420	7509563773535352	Japanese_Study_autogen/timestamp	84d63396eb2e230b
+298	420	7509563773535352	Japanese_Study_autogen/mocs_compilation.cpp	84d63396eb2e230b
+298	420	7509563773535352	C:/Users/blomg/Documents/QT/Testing_Projects/Japanese_Study/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Japanese_Study_autogen/timestamp	84d63396eb2e230b
+298	420	7509563773535352	C:/Users/blomg/Documents/QT/Testing_Projects/Japanese_Study/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Japanese_Study_autogen/mocs_compilation.cpp	84d63396eb2e230b
+424	955	7509563774796992	CMakeFiles/Japanese_Study.dir/filemanager.cpp.obj	b5abf4d950e65ec5
+420	2337	7509563774754723	CMakeFiles/Japanese_Study.dir/mainwindow.cpp.obj	d46f70d3813bc072
+2340	2543	7509563793960322	Japanese_Study.exe	50daad21f435461

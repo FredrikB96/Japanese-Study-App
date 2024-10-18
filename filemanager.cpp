@@ -29,7 +29,7 @@ static std::string GetModules()
     std::string path = "C:/Users/blomg/Documents/QT/Testing_Projects/Japanese_Study/Modules";
     for (const auto & entry : fs::directory_iterator(path))
     {
-        Modules.append(std::string(entry.path().generic_string()+"\n ").replace(0,entry.path().generic_string().find_last_of("/")+1,""));
+        Modules.append(std::string(entry.path().generic_string()+"\n").replace(0,entry.path().generic_string().find_last_of("/")+1,""));
 
     }
 
