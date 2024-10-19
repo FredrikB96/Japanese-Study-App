@@ -278,6 +278,18 @@
 			"MU",
 			"EWIEGA46WW/moc_mainwindow.cpp",
 			null
+		],
+		[
+			"C:/Users/blomg/Documents/QT/Testing_Projects/Japanese_Study/worditem.h",
+			"MU",
+			"EWIEGA46WW/moc_worditem.cpp",
+			null
+		],
+		[
+			"C:/Users/blomg/Documents/QT/Testing_Projects/Japanese_Study/wordmodel.h",
+			"MU",
+			"EWIEGA46WW/moc_wordmodel.cpp",
+			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
@@ -363,6 +375,16 @@
 		],
 		[
 			"C:/Users/blomg/Documents/QT/Testing_Projects/Japanese_Study/mainwindow.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/blomg/Documents/QT/Testing_Projects/Japanese_Study/worditem.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/blomg/Documents/QT/Testing_Projects/Japanese_Study/wordmodel.cpp",
 			"MU",
 			null
 		]

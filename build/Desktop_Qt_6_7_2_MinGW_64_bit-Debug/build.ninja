@@ -81,6 +81,22 @@ build CMakeFiles/Japanese_Study.dir/filemanager.cpp.obj: CXX_COMPILER__Japanese_
   OBJECT_DIR = CMakeFiles\Japanese_Study.dir
   OBJECT_FILE_DIR = CMakeFiles\Japanese_Study.dir
 
+build CMakeFiles/Japanese_Study.dir/wordmodel.cpp.obj: CXX_COMPILER__Japanese_Study_unscanned_Debug C$:/Users/blomg/Documents/QT/Testing_Projects/Japanese_Study/wordmodel.cpp || cmake_object_order_depends_target_Japanese_Study
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\Japanese_Study.dir\wordmodel.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/blomg/Documents/QT/Testing_Projects/Japanese_Study/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Japanese_Study_autogen/include -isystem C:/Qt/6.7.2/mingw_64/include/QtCore -isystem C:/Qt/6.7.2/mingw_64/include -isystem C:/Qt/6.7.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.2/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\Japanese_Study.dir
+  OBJECT_FILE_DIR = CMakeFiles\Japanese_Study.dir
+
+build CMakeFiles/Japanese_Study.dir/worditem.cpp.obj: CXX_COMPILER__Japanese_Study_unscanned_Debug C$:/Users/blomg/Documents/QT/Testing_Projects/Japanese_Study/worditem.cpp || cmake_object_order_depends_target_Japanese_Study
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\Japanese_Study.dir\worditem.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/blomg/Documents/QT/Testing_Projects/Japanese_Study/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Japanese_Study_autogen/include -isystem C:/Qt/6.7.2/mingw_64/include/QtCore -isystem C:/Qt/6.7.2/mingw_64/include -isystem C:/Qt/6.7.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.2/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\Japanese_Study.dir
+  OBJECT_FILE_DIR = CMakeFiles\Japanese_Study.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Japanese_Study
@@ -89,7 +105,7 @@ build CMakeFiles/Japanese_Study.dir/filemanager.cpp.obj: CXX_COMPILER__Japanese_
 #############################################
 # Link the executable Japanese_Study.exe
 
-build Japanese_Study.exe: CXX_EXECUTABLE_LINKER__Japanese_Study_Debug CMakeFiles/Japanese_Study.dir/Japanese_Study_autogen/mocs_compilation.cpp.obj CMakeFiles/Japanese_Study.dir/main.cpp.obj CMakeFiles/Japanese_Study.dir/mainwindow.cpp.obj CMakeFiles/Japanese_Study.dir/filemanager.cpp.obj | C$:/Qt/6.7.2/mingw_64/lib/libQt6Widgets.a C$:/Qt/6.7.2/mingw_64/lib/libQt6Gui.a C$:/Qt/6.7.2/mingw_64/lib/libQt6Core.a C$:/Qt/6.7.2/mingw_64/lib/libQt6EntryPoint.a || Japanese_Study_autogen Japanese_Study_autogen_timestamp_deps
+build Japanese_Study.exe: CXX_EXECUTABLE_LINKER__Japanese_Study_Debug CMakeFiles/Japanese_Study.dir/Japanese_Study_autogen/mocs_compilation.cpp.obj CMakeFiles/Japanese_Study.dir/main.cpp.obj CMakeFiles/Japanese_Study.dir/mainwindow.cpp.obj CMakeFiles/Japanese_Study.dir/filemanager.cpp.obj CMakeFiles/Japanese_Study.dir/wordmodel.cpp.obj CMakeFiles/Japanese_Study.dir/worditem.cpp.obj | C$:/Qt/6.7.2/mingw_64/lib/libQt6Widgets.a C$:/Qt/6.7.2/mingw_64/lib/libQt6Gui.a C$:/Qt/6.7.2/mingw_64/lib/libQt6Core.a C$:/Qt/6.7.2/mingw_64/lib/libQt6EntryPoint.a || Japanese_Study_autogen Japanese_Study_autogen_timestamp_deps
   FLAGS = -DQT_QML_DEBUG -g
   LINK_FLAGS = -mwindows
   LINK_LIBRARIES = C:/Qt/6.7.2/mingw_64/lib/libQt6Widgets.a  C:/Qt/6.7.2/mingw_64/lib/libQt6Gui.a  C:/Qt/6.7.2/mingw_64/lib/libQt6Core.a  -lmpr  -luserenv  -lmingw32  C:/Qt/6.7.2/mingw_64/lib/libQt6EntryPoint.a  -lshell32  -ld3d11  -ldxgi  -ldxguid  -ld3d12  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32

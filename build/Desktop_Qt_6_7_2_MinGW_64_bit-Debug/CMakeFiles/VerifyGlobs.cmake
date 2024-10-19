@@ -47,6 +47,8 @@ set(OLD_GLOB
   "C:/Users/blomg/Documents/QT/Testing_Projects/Japanese_Study/filemanager.cpp"
   "C:/Users/blomg/Documents/QT/Testing_Projects/Japanese_Study/main.cpp"
   "C:/Users/blomg/Documents/QT/Testing_Projects/Japanese_Study/mainwindow.cpp"
+  "C:/Users/blomg/Documents/QT/Testing_Projects/Japanese_Study/worditem.cpp"
+  "C:/Users/blomg/Documents/QT/Testing_Projects/Japanese_Study/wordmodel.cpp"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   message("-- GLOB mismatch!")
@@ -69,6 +71,8 @@ set(OLD_GLOB
   "C:/Users/blomg/Documents/QT/Testing_Projects/Japanese_Study/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Japanese_Study_autogen/moc_predefs.h"
   "C:/Users/blomg/Documents/QT/Testing_Projects/Japanese_Study/filemanager.h"
   "C:/Users/blomg/Documents/QT/Testing_Projects/Japanese_Study/mainwindow.h"
+  "C:/Users/blomg/Documents/QT/Testing_Projects/Japanese_Study/worditem.h"
+  "C:/Users/blomg/Documents/QT/Testing_Projects/Japanese_Study/wordmodel.h"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   message("-- GLOB mismatch!")

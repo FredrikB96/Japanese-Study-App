@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-2ece45ebac649c0aa474.json",
+					"jsonFile" : "directory-.-Debug-3247c9ae24d0a8939f24.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.16"
@@ -44,7 +44,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Japanese_Study::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Japanese_Study-Debug-b3ad76903a34b6300bbe.json",
+					"jsonFile" : "target-Japanese_Study-Debug-027098c6fce68939039b.json",
 					"name" : "Japanese_Study",
 					"projectIndex" : 0
 				},

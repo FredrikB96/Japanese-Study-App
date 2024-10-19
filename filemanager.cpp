@@ -30,9 +30,7 @@ static std::string GetModules()
     for (const auto & entry : fs::directory_iterator(path))
     {
         Modules.append(std::string(entry.path().generic_string()+"\n").replace(0,entry.path().generic_string().find_last_of("/")+1,""));
-
     }
-
 
     return Modules;
 }

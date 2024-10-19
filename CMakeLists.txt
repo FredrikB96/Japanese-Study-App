@@ -27,6 +27,9 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
         MANUAL_FINALIZATION
         ${PROJECT_SOURCES}
         filemanager.h filemanager.cpp
+        wordmodel.h wordmodel.cpp
+        worditem.h worditem.cpp
+
 
     )
 # Define target properties for Android with Qt 6 as:

@@ -1,0 +1,67 @@
+#separator:tab
+#html:false
+#guid column:1
+n9IatYWjR8	おかず	お 弁当[べんとう]のおかずは 何[なに]がいい What would you like in your box lunch?	side dish, accompaniment for rice dishes	
+tG`QM.qDvX	おきのどくに	お気の毒に		I'm sorry to hear that…	
+k/FfJy3a-]	おこたる	怠る	勉強を怠る neglect [be negligent in] one's studies   ドアの戸締（し）まりを怠る neglect [forget] to lock the door   返事を書くのを怠っている I haven't written an answer yet.   警戒（けいかい）を怠るな Don't be caught off guard.／Keep your eyes open.   注意を怠ると事故を起こす If you are not careful, you may cause an accident.	to neglect, to fail	
+"svN#d5X[K}"	おどろかす	驚かす		to surprise, to frighten	
+vVMh3=K@q0	おもいきり	思い切り	彼を思い切りなぐった I hit him as hard as I could.   思い切り泣いた I cried [wept] my heart out.   在庫品を思い切り安いお値段にて提供（ていきょう）いたします We offer the goods we have in stock at the lowest possible price.   2 〔思い切ること〕   実に思い切りのよい人だった〔あきらめが速い〕 He was very quick to give up.	to one's heart's content; to the best of one's ability; with all one's might	
+urT3-5|*U[	おやつ	おやつ		a snack; refreshments     おやつの時間です It's time to have an afternoon snack.   おやつを食べ過ぎる eat too much between meals	
+uBSN?RC%/f	～か	～日		counter for days	
+h1OO_*Szga	かいすいよく	海水浴		sea bathing, seawater bath	
+uB-Qqd1l*b	はたして	果たして	果[は]たして 子供[こども]がそんな 残酷[ざんこく]なことをするだろうか。 Can a child do such a cruel thing?	as was expected, just as one thought, sure enough   really, actually, ever used in interrogative and hypothetical sentences	adv
+LNE4+;FzVH	しょうねん	少年	少年[しょうねん]	boy; juvenile	n
+J/g;zl?P/~	とんでもない		彼[かれ]は 完全[かんぜん]だなんてとんでもない。  He is far from perfect.	unthinkable, unexpected, absurd, outrageous, preposterous, terrible  absolutely not!, far from it!, impossible!, preposterous!, what a thing to say!, no way! usually written in kana  (it was) no bother at all, not at all, don't mention it usually written in kana	exp;uk
+k{Z*~|t{9J	ようじ	用事	用事[ようじ]	tasks; errands	n
+kq+&)7X-L8	たんすう	単数	単数[たんすう]	singular number	n;adj-no
+v:9;6d{cFK	シャツ			shirt	n
+PrIUCq0L7(	はんい	範囲	彼女[かのじょ]は 狭[せま]い 範囲[はんい]でしか 物[もの]が 見[み]えない Her viewpoint is limited.	extent, scope, sphere, range	n
+mHW/WuW^jg	かけつ	可決	可決[かけつ]	approval (e.g. motion, bill)	n;vs
+KL,cWhHAm}	めんどう	面倒	私[わたし]は 面倒[めんどう]なことになると 予想[よそう]した。 I anticipated trouble.	trouble, care	adj-na, n
+y{ne<cjP/)	びんづめ	瓶詰め; 瓶詰	瓶詰[びんづ]め; 瓶詰[びんづめ]	bottling, bottled	n;adj-no;vs
+N=RS3c~J6N	まわす	回す	回[まわ]す	to turn, to revolve	v5s;vt
+Ek:~f`hY?-	はいけんする	拝見する	拝見[はいけん]する	(humble) to look at	vs, hum
+D(7ticQ>.C	たちば	立場	彼[かれ]は 何[なん]でも 金銭[きんせん]の 立場[たちば]から 考[かんが]える。 He thinks of everything in terms of money.	position, situation   viewpoint, standpoint, point of view	n
+wbyijRl.Q(	み	身	身[み]	body (1 kanji)	n
+fgA@a4fh=L	みんかん	民間	今度[こんど]の 税金[ぜいきん]は 全[すべ]ての 民間企業[みんかんきぎょう]に 適用[てきよう]される。 This tax is applied to all private- sector enterprises.	private, civilian, civil, popular, folk, unofficial	n
+A0],bqrPu+	なくす	無くす	無[な]くす	to lose something	v5s, vt
+j`!^%`dE8X	けんちく	建築	建築[けんちく]	construction, architecture	n;vs
+mV)(-o8NN1	ゆっくり			slowly, at ease	adv;n;vs;adv-to
+oI4td7ugz1	さんぽ	散歩	散歩[さんぽ]	stroll	n;vs
+IK}{r>`-Il	ミス			miss (mistake, error, failure)	n;vs
+noHX*Do`hu	かもしれない	かも知れない	かも 知[し]れない	may, might, perhaps, may be, possibly	exp;uk
+sN[7U-<8Pi	がく	学	学[がく]	learning	n
+Lh+%PfLcbV	いくら	幾ら	幾[いく]ら	how much?	adv;n;uk
+NEyl+%AS!8	あかい	赤い	赤[あか]い	red	adj-i
+A`[F?kSuX|	かわ	河	河[かわ]	river (traditional)	n
+PSsZA!k9^k	ほそい	細い	細[ほそ]い	slender	adj-i
+HIcO)4EcdW	ご	碁	碁[ご]	go (board game of capturing territory)	n
+O&5_:)fZh`	おえる	終える	彼[かれ]はすぐに 雑用[ざつよう]を 終[お]えた。 He finished his chores in no time.	to finish	v1;vt
+z3uxT_r@!&	じびき	字引	字引[じびき]	dictionary (less often used)	n
+B0l;f~J$Rm	なに	何	何[なに]	what	int;pn;adj-no;pref;n
+nAtF:GGG`(	もっと			more	adv
+JeH_Oi?S?O	たつ	立つ	立[た]つ	to stand	v5t;vi
+DVPv/(uo[Z	ぶん	文	文[ぶん]	sentence; text	n, n-suf
+"GyZY2v%#+G"	たいへん	大変	大変[たいへん]	very (dreadful)	adv;adj-na;n
+QDBj|dY0vj	だん	段	彼[かれ]は 階段[かいだん]を一 度[ど]に三 段[だん]ずつかけあがった。He jumped up the steps three at a time.	step	n;ctr
+kWB`.,}dCA	あつい	熱い	熱[あつ]い	hot (thing)	adj-i
+ELbp)U$1Mv	けす	消す	例文[れいぶん]を 消[け]さないで。Do not delete examples.	to erase, to rub out, to rub off, to cross out, to delete   to turn off (a light, TV, heater, etc.), to switch off   to extinguish (a fire, candle, etc.), to put out   to remove (a smell, pain, etc.), to eliminate, to get rid of, to relieve (pain, anxiety, etc.), to neutralize (poison)   to drown out (a sound), to deaden, to absorb, to muffle   to kill, to murder, to bump off, to rub out colloquial	v5s;vt
+"NEjSK4#sVv"	ごくろうさま	ご苦労さま	ご 苦労[くろう]さま	Thank you very much for your....	exp;adj-na
+LR`>Fp1jGh	しゅうじ	習字	習字[しゅうじ]	penmanship	n
+CBpHx8`<VY	しかくい	四角い	四角[しかく]い	square	adj-i
+wA7:*Luz60	ほうりつ	法律	法律[ほうりつ]	law	n; adj-no
+"bj8hnD#,K4"	じっけん	実験	実験[じっけん]	experiment	n;vs
+)z//IKDF2	ほお	頬	頬[ほお]	cheek (of face)	n
+"bPL`c0#d+t"	こくばん	黒板	黒板[こくばん]	blackboard	n
+O}$j;o^{[5	まねく	招く	10 年[ねん]ぶりに 再会[さいかい]した 友人[ゆうじん]は 私[わたし]を 家[いえ]に 招[まね]き、 手料理[てりょうり]でもてなしてくれた。 Being reunited after 10 years, my friend invited me to her house and treated me to a home-cooked meal.	to invite, to beckon	v5k;vt
+gg+-Y4d}fZ	ずつう	頭痛	頭痛[ずつう]	headache	n
+M`wpwqpd,B	かいしゃく	解釈	この 文章[ぶんしょう]をどう 解釈[かいしゃく]しますか。	interpretation, explanation, understanding	n;vs
+vUwIPkP_(/	ひげ	髭; 鬚; 髯	髭[ひげ]; 鬚[ひげ]; 髯[ひげ]	facial hair	n
+r2=at0JYtX	とおりかかる	通り掛かる	彼[かれ]らは 通[とお]りかかった 船[ふね]に 救助[きゅうじょ]された。 They were rescued by a passing ship.	to happen to pass by (by chance)	v5r;vi
+n%G5Xl2!Ef	はっこう	発行	新[あたら]しい 切手[きって]が 来週[らいしゅう]発行[はっこう]される. New stamps will be issued/publiced next month.	issue (publications)	n;vs
+y:>+0mC@JZ	きびしい	厳しい	厳[きび]しい	strict	adj-i
+"b,>)#9]W%s"	まさつ	摩擦	米国人[べいこくじん]と イギリス人[いぎりすじん]との 間[ま]の 摩擦[まさつ]が 高[たか]まった。 Friction between Americans and British citizens increased.	(physical) friction	n;vs
+egE:<w)/>z	こうほ	候補	スミス 氏[し]は 市長[しちょう] 候補[こうほ]である。	candidate	n
+Kmig%3H|]0	あこがれる	憧れる	あの 人達[ひとたち]は 都会[とかい]の 生活[せいかつ]に 憧れ[あこが]ている。 They are longing for city life.	to long for	v1;vi
+!S!-1^2lj	ゆげ	湯気	湯気[ゆげ]	steam (2 kanji - not 蒸気)	n
+w)%j$FQHkZ	つながる	繋がる	彼ら[かれら]は 血[ち]が繋[つな]がる。 They are related by blood.	to be tied together, to be connected to, to be linked to	v5r;vi;uk
