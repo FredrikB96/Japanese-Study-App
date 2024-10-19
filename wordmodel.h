@@ -17,6 +17,9 @@ public:
 private:
     std::vector<WordItem> words;
     std::vector<int> ids;
+
+
+    std::vector<WordItem>::iterator findWorditerator(int id = 0, std::string Kanji = "");
 };
 
 #endif // WORDMODEL_H
